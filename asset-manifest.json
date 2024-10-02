@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.ee9abf4f.css",
+    "main.js": "/reactportfolio/static/js/main.c1c982da.js",
+    "static/js/453.1407b060.chunk.js": "/reactportfolio/static/js/453.1407b060.chunk.js",
+    "static/media/robo.png": "/reactportfolio/static/media/robo.006916edd6091cfacaf4.png",
+    "static/media/hiking4.jpg": "/reactportfolio/static/media/hiking4.4fbd8383be5a50cd3f16.jpg",
+    "static/media/hiking2.jpg": "/reactportfolio/static/media/hiking2.c87d816ec18bf6af8c24.jpg",
+    "static/media/hiking1.jpg": "/reactportfolio/static/media/hiking1.79a86ed41c763a1d7f93.jpg",
+    "static/media/hiking3.jpg": "/reactportfolio/static/media/hiking3.0475a5f92ff4178b8053.jpg",
+    "static/media/val2.jpg": "/reactportfolio/static/media/val2.42992f1579ecb2118af3.jpg",
+    "static/media/val1.jpg": "/reactportfolio/static/media/val1.97a3879339baeea192d6.jpg",
+    "static/media/Resume.pdf": "/reactportfolio/static/media/Resume.6f92e7a3be65cc6c9ae2.pdf",
+    "static/media/andrei.jpg": "/reactportfolio/static/media/andrei.3032e840f98433532678.jpg",
+    "static/media/github.svg": "/reactportfolio/static/media/github.d4577cfbb9306cfe891b2ac5c1586b8c.svg",
+    "index.html": "/reactportfolio/index.html",
+    "static/media/linkedin.svg": "/reactportfolio/static/media/linkedin.7ea113699fb66e38731911cd17c61005.svg",
+    "main.ee9abf4f.css.map": "/reactportfolio/static/css/main.ee9abf4f.css.map",
+    "main.c1c982da.js.map": "/reactportfolio/static/js/main.c1c982da.js.map",
+    "453.1407b060.chunk.js.map": "/reactportfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee9abf4f.css",
+    "static/js/main.c1c982da.js"
+  ]
+}
