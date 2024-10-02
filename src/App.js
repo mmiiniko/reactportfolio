@@ -88,13 +88,13 @@ const App = () => {
           </div>
           <div>
             <h1 className='text-center text-3xl font-anton tracking-widest text-white mt-10 mb-5'>CRUD using ReactJS</h1>
-            <img className='projectGallery' src={val2} alt='img' width={550} height={200}></img>
+            <img className='projectGallery' src={robo} alt='img' width={550} height={200}></img>
             <button className='viewbtn text-white'>View Project</button>
             <button className='codebtn text-white'>Source Code</button>
           </div>
           <div>
             <h1 className='text-center text-3xl font-anton tracking-widest text-white mt-10 mb-5'>To Do list - ReactJS</h1>
-            <img className='projectGallery' src={val2} alt='img' width={550} height={200}></img>
+            <img className='projectGallery' src={robo} alt='img' width={550} height={200}></img>
             <button className='viewbtn text-white'>View Project</button>
             <button className='codebtn text-white'>Source Code</button>
           </div>
